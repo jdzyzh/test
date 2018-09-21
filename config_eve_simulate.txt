@@ -1,0 +1,9 @@
+rawImage = 1
+numFrames = 1
+inData = in.bin
+traceDumpBaseName = dump_
+outData = out.bin
+netBinFile = net.bin
+paramsBinFile = prm.bin
+updateNetWithStats = 1
+outputNetBinFile = net_new.bin
